@@ -11,3 +11,12 @@ To democratize access to high-quality education for Polish students by providing
 ---
 
 **Making quality education accessible to every Polish student through the power of AI** 🎓
+<div align="center">
+  <br>
+  <strong>Powered by</strong>
+  <br>
+  <br>
+  <a href="https://bielik.ai">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bielik_logo.svg/1280px-Bielik_logo.svg.png" alt="Bielik AI" width="200"/>
+  </a>
+</div>
